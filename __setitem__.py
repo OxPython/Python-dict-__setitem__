@@ -7,7 +7,7 @@ Are there other ways to insert data into a dictionary in Python?
 
 ¿Hay otras formas de insertar datos en un diccionario en Python?
 
-Python has a __getitem__ special method to add items in a dictionary, 
+Python has a __setitem__ special method to add items in a dictionary, 
 and others not so commons
 '''
 
